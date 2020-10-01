@@ -1,11 +1,11 @@
 # Data Structure Fundamentals. 
 
-Grind tutorial for Software Developer 2nd year students.
+Grind tutorial for Software Developer 2nd year students studying Data Structures.
 
 Have a peek under the hood to examine the workings of a java heap data structure.<br>
 To understand the fundamentals of data-structures, it is worth writing your own to gain insight as to what 
 really happens under the hood. <br>
-It is also useful to have raw data structures in your arsenal should you ever want to create your own customized version of a data structure.
+It is also useful to have raw data structures in your arsenal, should you ever want to create your own customized version of a data structure.
 
 Examine the code and try create your own data structure.<br>
 Email me with questions and/or queries.
