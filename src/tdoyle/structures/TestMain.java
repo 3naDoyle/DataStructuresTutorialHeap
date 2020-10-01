@@ -21,7 +21,8 @@ public class TestMain{
 		System.out.println("HeapValues");
 		testHeap.printHeap();
 		
-		//test minimum values input
+		/** test minimum values input
+		 * Create a minheap with minimum amount of values **/
 		
 		
 		//test medium quantity of values input
