@@ -78,7 +78,7 @@ public class Main {
 			
 		}while(userPick!=4);
 		
-		
+		scan.close();
 	}// close q1
 	
 	public static void question2(){
@@ -138,7 +138,8 @@ public class Main {
 		System.out.println("****************************************");
 		
 		int userChoice=scanB.nextInt();
-		
+
+
 		return userChoice;
 		
 		}
